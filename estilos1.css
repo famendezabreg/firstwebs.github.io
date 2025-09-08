@@ -1,0 +1,57 @@
+/* Estilos generales del cuerpo */
+body {
+    background-color: lightblue;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Contenedor principal */
+.contenedor-principal {
+    font-size: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Título principal */
+.titulo-principal {
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Párrafo con texto en negrita */
+.parrafo-negrita {
+    color: navy;
+    font-weight: bold;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+
+/* Párrafo justificado */
+.parrafo-justificado {
+    text-transform: uppercase;
+    text-align: justify;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+
+/* Párrafo normal */
+.parrafo-normal {
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+
+/* Texto destacado (spans) */
+.texto-destacado {
+    font-style: italic;
+    color: red;
+}
+
+/* Párrafo pequeño */
+.parrafo-pequeno {
+    font-size: 12px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
